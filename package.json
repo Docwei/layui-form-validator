@@ -1,0 +1,30 @@
+{
+  "name": "layui-form-validator",
+  "version": "1.0.0",
+  "description": "layui-form-validator",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Docwei/layui-form-validator.git"
+  },
+  "keywords": [
+    "layui",
+    "form",
+    "validator"
+  ],
+  "author": "weijiang90@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Docwei/layui-form-validator/issues"
+  },
+  "homepage": "https://github.com/Docwei/layui-form-validator#readme",
+  "dependencies": {
+    "layui": "^2.6.8"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
